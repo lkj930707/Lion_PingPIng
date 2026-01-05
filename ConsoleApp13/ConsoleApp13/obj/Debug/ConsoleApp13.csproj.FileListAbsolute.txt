@@ -1,0 +1,8 @@
+D:\gitTest\Lion_PingPIng\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+D:\gitTest\Lion_PingPIng\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+D:\gitTest\Lion_PingPIng\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+D:\gitTest\Lion_PingPIng\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+D:\gitTest\Lion_PingPIng\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\gitTest\Lion_PingPIng\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+D:\gitTest\Lion_PingPIng\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+D:\gitTest\Lion_PingPIng\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe.config

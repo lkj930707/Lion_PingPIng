@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\lion7WorkSpace\\ConsoleApp5\\",
+  "WorkspaceRootPath": "D:\\gitTest\\Lion_PingPIng\\ConsoleApp5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D4E31AF-D4D8-4D77-9B6F-5876A1A5FCF2}|ConsoleApp5\\ConsoleApp5.csproj|c:\\lion7workspace\\consoleapp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4E31AF-D4D8-4D77-9B6F-5876A1A5FCF2}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gitTest\\Lion_PingPIng\\ConsoleApp5\\ConsoleApp5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\lion7WorkSpace\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "DocumentMoniker": "D:\\gitTest\\Lion_PingPIng\\ConsoleApp5\\ConsoleApp5\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
-              "ToolTip": "C:\\lion7WorkSpace\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "ToolTip": "D:\\gitTest\\Lion_PingPIng\\ConsoleApp5\\ConsoleApp5\\Program.cs",
               "RelativeToolTip": "ConsoleApp5\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T06:11:21.548Z",
               "EditorCaption": ""
