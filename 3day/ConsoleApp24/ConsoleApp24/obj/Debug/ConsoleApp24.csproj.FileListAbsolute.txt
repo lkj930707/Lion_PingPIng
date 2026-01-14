@@ -1,0 +1,8 @@
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.AssemblyReference.cache
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe.config

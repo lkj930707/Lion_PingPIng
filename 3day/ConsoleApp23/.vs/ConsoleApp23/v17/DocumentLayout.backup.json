@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gitTest\\Lion_PingPIng\\3day\\ConsoleApp23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA95D594-E408-48C8-9460-1FF90BA68A33}|ConsoleApp23\\ConsoleApp23.csproj|d:\\gittest\\lion_pingping\\3day\\consoleapp23\\consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA95D594-E408-48C8-9460-1FF90BA68A33}|ConsoleApp23\\ConsoleApp23.csproj|solutionrelative:consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\gitTest\\Lion_PingPIng\\3day\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp23\\Program.cs",
+              "ToolTip": "D:\\gitTest\\Lion_PingPIng\\3day\\ConsoleApp23\\ConsoleApp23\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp23\\Program.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:41:49.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

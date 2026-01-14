@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp8
+{
+    class Skill
+    {
+        //필드 /변수
+        private string name;
+        private int att;
+
+        public Skill()
+        {
+
+        }
+        public Skill(string name, int att)
+        {
+            this.name = name; //this 내 객체에 속한 내꺼다 
+            this.att = att;
+        }
+        public void Skills()
+        {
+            Console.WriteLine($"스킬 이름: {this.name}");
+            Console.WriteLine($"스킬 공격력: {this.att}");
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Skill s = new Skill("블리자드",52000);
+            s.Skills();
+            
+            
+        }
+    }
+}

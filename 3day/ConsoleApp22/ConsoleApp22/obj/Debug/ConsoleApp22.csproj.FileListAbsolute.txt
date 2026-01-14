@@ -1,0 +1,8 @@
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.AssemblyReference.cache
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
+D:\gitTest\Lion_PingPIng\3day\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe.config

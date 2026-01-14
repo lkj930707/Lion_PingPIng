@@ -1,0 +1,8 @@
+D:\gitTest\Lion_PingPIng\9day\슈팅게임만들기\슈팅게임만들기\bin\Debug\슈팅게임만들기.exe.config
+D:\gitTest\Lion_PingPIng\9day\슈팅게임만들기\슈팅게임만들기\bin\Debug\슈팅게임만들기.exe
+D:\gitTest\Lion_PingPIng\9day\슈팅게임만들기\슈팅게임만들기\bin\Debug\슈팅게임만들기.pdb
+D:\gitTest\Lion_PingPIng\9day\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.csproj.AssemblyReference.cache
+D:\gitTest\Lion_PingPIng\9day\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.csproj.CoreCompileInputs.cache
+D:\gitTest\Lion_PingPIng\9day\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.exe
+D:\gitTest\Lion_PingPIng\9day\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.pdb
+D:\gitTest\Lion_PingPIng\9day\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.exe.config

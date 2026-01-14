@@ -1,0 +1,8 @@
+D:\gitTest\Lion_PingPIng\8day\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+D:\gitTest\Lion_PingPIng\8day\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+D:\gitTest\Lion_PingPIng\8day\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+D:\gitTest\Lion_PingPIng\8day\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+D:\gitTest\Lion_PingPIng\8day\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\gitTest\Lion_PingPIng\8day\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+D:\gitTest\Lion_PingPIng\8day\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+D:\gitTest\Lion_PingPIng\8day\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe.config
